@@ -1,5 +1,8 @@
 {
   "version": 2,
-  "projects": {},
+  "projects": {
+    "hello": "stacks/hello",
+    "util": "libs/util"
+  },
   "$schema": "./node_modules/nx/schemas/workspace-schema.json"
 }
